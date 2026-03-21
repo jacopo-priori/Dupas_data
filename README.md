@@ -2,7 +2,7 @@ Exploration of the data from Dupas (2014)
 
 <br>
 
-The paper is based on RCT that was carried out in 6 Kenyan villages and consisted in randomly assigning different subsidised prices for anti-malarial bed nets to 1200 households (that could collect the subsidised nets from a local retailer)  
+The paper analyses an RCT that was carried out in 6 Kenyan villages and consisted in randomly assigning different subsidised prices for anti-malarial bed nets to 1200 households (that could collect the subsidised nets from a local retailer)  
 
 Since the distribution of vouchers that gave the right to the subsidised price was carryed out from April until October 2007, a concern could be that villages were not randomly subject to malaria exposure, information spillover and health spillover  
 
